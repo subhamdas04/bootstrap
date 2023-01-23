@@ -6,14 +6,18 @@ body{
     background-color: rgb(254, 254, 254);;
 }
 .back-img{
-   background-image: url(../img/shutterstock_348320018.png);
+   background-image: url(./img/shutterstock_348320018@2x.png);
+   background-size: 100% 100%;
+   /* background: transparent linear-gradient(180deg, #9D0E0E00 0%, #4F0707 100%) 0% 0% no-repeat padding-box; */
    height: 400px;
 }
 .login, .createaccount{
     text-decoration: none;
-    border: 2px solid white;
+    border: 3px solid white;
+    background: transparent;
     height: 30px;
-    color: white;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
     border-radius: 6px;
 }
 .login:hover, .createaccount:hover{
