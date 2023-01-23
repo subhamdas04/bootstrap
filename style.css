@@ -3,7 +3,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-color: rgb(252, 248, 248);;
+    background-color: rgb(254, 254, 254);;
 }
 .back-img{
    background-image: url(../img/shutterstock_348320018.png);
@@ -11,15 +11,13 @@ body{
 }
 .login, .createaccount{
     text-decoration: none;
+    border: 2px solid white;
+    height: 30px;
     color: white;
-    opacity: 0.9;
+    border-radius: 6px;
 }
 .login:hover, .createaccount:hover{
     color: white;
-}
-.createaccount{
-    border: 2px solid white;
-    height: 30px;
 }
 .logo{
     display: inline;
@@ -31,6 +29,12 @@ body{
 }
 .restaurantTitle{
     color: white;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 600;
+}
+.locationDropdown{
+
+}
+.restaurantsInputs{
+    
 }
