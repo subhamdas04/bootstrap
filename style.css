@@ -6,7 +6,7 @@ body{
     background-color: rgb(254, 254, 254);;
 }
 .back-img{
-   background-image: url(./img/shutterstock_348320018@2x.png);
+   background-image: url(./img/banner.jpg);
    background-size: 100% 100%;
    /* background: transparent linear-gradient(180deg, #9D0E0E00 0%, #4F0707 100%) 0% 0% no-repeat padding-box; */
    height: 400px;
